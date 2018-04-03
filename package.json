@@ -1,0 +1,15 @@
+{
+  "name": "webpacker-example-latest",
+  "private": true,
+  "dependencies": {
+    "@rails/webpacker": "3.4",
+    "babel-preset-react": "^6.24.1",
+    "prop-types": "^15.6.1",
+    "react": "^16.3.0",
+    "react-dom": "^16.3.0",
+    "react-loadable": "^5.3.1"
+  },
+  "devDependencies": {
+    "webpack-dev-server": "2.11.2"
+  }
+}
